@@ -1,0 +1,23 @@
+{
+  "name": "the-party-planner",
+  "version": "1.0.0",
+  "description": "Whether it being a Birthday Party, a Graduation or a Wedding, the Party Planner is the one-Stop shop to get all you will need to have a successful event. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmadegoke/The-Party-Planner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmadegoke/The-Party-Planner/issues"
+  },
+  "homepage": "https://github.com/cmadegoke/The-Party-Planner#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4"
+  }
+}
