@@ -18,7 +18,7 @@ const questions = [
         type: 'checkbox',
         message: 'What languages do you mostly use?',
         name: 'languages',
-        choices: ['HTML', 'CSS', 'JavaScript', 'SQL',]
+        choices: ['HTML', 'CSS', 'JavaScript', 'SQL','Bootstrap', 'jQuery']
     },
     {
         type: 'Input',
