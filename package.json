@@ -18,6 +18,7 @@
   "homepage": "https://github.com/cmadegoke/TeamReadMe#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "inquirer": "^7.0.4"
+    "inquirer": "^7.0.4",
+    "json-stringify-safe": "5.0.1"
   }
 }
