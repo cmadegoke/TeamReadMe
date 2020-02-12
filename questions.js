@@ -22,8 +22,8 @@ const questions = [
     },
     {
         type: 'Input',
-        message: 'What are you biggest strengths when it comes to coding?',
-        name: 'Strength',
+        message: 'Do you prefer frontend or backend development?',
+        name: 'Preference',
     },
     {
         type: 'checkbox',
