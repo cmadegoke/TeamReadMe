@@ -2,33 +2,34 @@
 const writeMarkdown = (profileData, answerObj) => {
   //  console.log(profileData.data[0].owner.login)
   return `
-**TITTLE:
+# TITTLE:
  Team Leo Representatives
 
-**DESCRIPTION:
-Our Team is made up of Experienced IT professionals with over 6 years of experience in Application developmentl.
-In their spare time, they serve as Professors, TA's and just building in applications.
-Below are our wonderful team members.
+## DESCRIPTION:
+* Our Team is made up of Experienced IT professionals with over 6 years of experience in Application developmentl.
+* In their spare time, they serve as Professors, TA's and just building in applications.
 
-**NAME: 
-${profileData.data.login}
+  *Below are our wonderful team members.
 
-**CURRENT OCCUPATION:
+# NAME: ${profileData.data.login}
+
+
+## CURRENT OCCUPATION:
 ${answerObj.Occupation}
 
-**LANGUAGES:
+## LANGUAGES:
 ${answerObj.languages.map(language=>`${language}\n`)}
 
-**TECHNICAL STRENGHT:
+## TECHNICAL STRENGHT:
 ${answerObj.Strength}
 
-**PREFERED RESOURCES:
+## PREFERED RESOURCES:
 ${answerObj.Resources.map(resource=>`${resource}\n`)}
 
-**CERTIFICATES:
+## CERTIFICATES:
 ${answerObj.Certificates.map(certificate=>`${certificate}\n`)}
   
-**HOBBIES:
+## HOBBIES:
 ${answerObj.Hobbies.map(hobby=>`${hobby}\n`)}
  `
 

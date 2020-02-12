@@ -1,42 +1,45 @@
 
-**TITTLE:
+# TITTLE:
  Team Leo Representatives
 
-**DESCRIPTION:
-Our Team is made up of Experienced IT professionals with over 6 years of experience in Application developmentl.
-In their spare time, they serve as Professors, TA's and just building in applications.
-Below are our wonderful team members.
+## DESCRIPTION:
+* Our Team is made up of Experienced IT professionals with over 6 years of experience in Application developmentl.
+* In their spare time, they serve as Professors, TA's and just building in applications.
 
-**NAME: 
-cmadegoke
+  *Below are our wonderful team members.
 
-**CURRENT OCCUPATION:
-payroll experts
+# NAME: cmadegoke
 
-**LANGUAGES:
+
+## CURRENT OCCUPATION:
+fufu punder
+
+## LANGUAGES:
 HTML
 ,CSS
 ,JavaScript
 ,SQL
 
 
-**TECHNICAL STRENGHT:
-java
+## TECHNICAL STRENGHT:
+javascript
 
-**PREFERED RESOURCES:
-W3Schools,Google,Github,Youtube
+## PREFERED RESOURCES:
+W3Schools
+,Stackflow
+,Google
+,Github
 
-**CERTIFICATES:
+
+## CERTIFICATES:
 CDP
 ,AWS
-,CEH
 ,CSM
 
   
-**HOBBIES:
+## HOBBIES:
 Basketball
 ,Football
 ,Baseball
-,Soccer
 
  
