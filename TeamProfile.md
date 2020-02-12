@@ -1,18 +1,21 @@
 
-# TITTLE:
- Team Leo Representatives
-
+# TITTLE: Team Leo Representatives
+ 
 ## DESCRIPTION:
-* Our Team is made up of Experienced IT professionals with over 6 years of experience in Application developmentl.
+* We are one of many agile teams in the company that specializes in Payroll Modules.
+* our Team consists of 6 individuals with 3 Developers, 2 QA's and 1 Scrum Master.
+* Our Projects consists of Payroll 
 * In their spare time, they serve as Professors, TA's and just building in applications.
 
   *Below are our wonderful team members.
 
 # NAME: cmadegoke
 
+![Profile Pic]("https://avatars1.githubusercontent.com)
+
 
 ## CURRENT OCCUPATION:
-fufu punder
+jumpstart
 
 ## LANGUAGES:
 HTML
@@ -22,18 +25,18 @@ HTML
 
 
 ## TECHNICAL STRENGHT:
-javascript
+java
 
 ## PREFERED RESOURCES:
 W3Schools
 ,Stackflow
 ,Google
-,Github
 
 
 ## CERTIFICATES:
 CDP
 ,AWS
+,CEH
 ,CSM
 
   
